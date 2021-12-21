@@ -1,0 +1,9 @@
+.proImage {
+  height: 100px;
+}
+
+.card:hover img{
+  transform: scale(2,2);
+  transition-duration: 500ms;
+  transition-timing-function: ease-out;
+}
